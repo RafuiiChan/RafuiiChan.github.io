@@ -1,4 +1,4 @@
-# 这里仅为 [github](https://github.com/) 名为 [CuteKyumi](https://github.com/CuteKyumi/) 的个人博客(还没开始做)
+# [CuteKyumi](https://github.com/CuteKyumi/) 的个人博客(还没开始做)
 
 ~~没开始做是因为懒（其实就是不会搭QwQ）~~
 
